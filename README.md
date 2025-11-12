@@ -1,16 +1,18 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**seoyoungjin23/seoyoungjin23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌱 My GitHub Stats
 
-Here are some ideas to get you started:
+<p>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=seoyoungjin23&show_icons=true&theme=vue&hide_border=true&count_private=true" 
+    height="170" 
+    alt="GitHub Stats"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=seoyoungjin23&layout=compact&theme=vue&hide_border=true" 
+    height="170" 
+    alt="Top Languages"
+  />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
